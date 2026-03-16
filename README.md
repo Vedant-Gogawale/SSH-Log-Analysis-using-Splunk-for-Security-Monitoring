@@ -39,7 +39,7 @@ monitoring.
 
 Linux SSH authentication logs:
 
-/var/log/auth.log
+`/var/log/auth.log`
 
 These logs include: - Successful SSH logins - Failed login attempts -
 Invalid user login attempts - Source IP addresses
